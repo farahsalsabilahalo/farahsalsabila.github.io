@@ -1,4 +1,4 @@
-**READ ME**
+**Farah Salsabila Profile ... **
 
 echo "# farahsalsabila.github.io" >> README.md
 git init
